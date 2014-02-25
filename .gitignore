@@ -1,6 +1,9 @@
 *.class
 *.log
 
+# eclipse
+.cache
+
 # sbt specific
 dist/*
 target/
